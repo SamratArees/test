@@ -1,0 +1,171 @@
+body{
+	margin: 0;
+	font-family: sans-serif;
+	background-color: #c5c9c9;
+
+}
+.top{
+	background-color: #9cb8ff;
+	height: 85px;
+	border-bottom: 15px solid #6b92ff;
+}
+.enable-triangle{
+	color: black;
+}
+.virtual{
+	background-color: black;
+	width: 200px;
+	height: 70px;
+	float: right;
+	margin-right: 80px;
+	margin-top: 10px;
+	color: white
+}
+.virtual-college-text{
+	padding: 10px 0 0 10px;
+	font-size: 20px;
+	margin: 0px;
+}
+.enable-text{
+	font-size: 30px;
+	margin: 50px 0 0 10px;
+	color: white;
+	margin: 20px;
+	float: left;
+}
+.second-layer{
+	background-color: white;
+	margin:30px;
+	padding: 10px;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.copy{
+	background-color: #42db56;
+}
+.awards{
+	background-color: #84b5e0;
+}
+.message{
+	background-color: #ffbb8f;
+}
+.training-planning{
+	background-color: #ff739d;
+
+}
+.common-box{
+	padding: 10px 0px;
+	width: 100%;
+	text-align: center;
+	color: white;
+	margin-bottom: 0px;
+}
+.space-margin{
+	margin: 10px;
+	width: 25%;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+.icon{
+	padding: 15px;
+	border: 1px solid white;
+	border-radius: 50%;
+}
+
+.bottom-text{
+	
+	text-align: center;
+	padding: 5px;
+	color: white;
+	}
+
+.copy-color{
+	background-color: #84e08f
+}
+.award-color{
+	background-color: #6e97ba;
+}
+.message-color{
+	background-color: #d49a74;
+}
+.calendar-color{
+	background-color: #d66084;
+}
+.box-row{
+	display: flex;
+	direction: row;
+}
+.assesment{
+	background-color: #408fff; 
+}
+.assesment-color{
+	background-color: #3070c9;
+}
+.announcement{
+	background-color: #bd5791;
+}
+.announcement-color{
+	background-color: #9c4877;
+}
+.evaluation{
+	background-color: #9c63d4;
+}
+.evaluation-color{
+	background-color: #69428f;
+}
+.group{
+	background-color: #8291ff
+}
+.group-color{
+	background-color: #5e69bf;
+}
+.development{
+	background-color: #fb87ff;
+}
+.development-color{
+	background-color: #d571d9;
+}
+.classroom{
+	background-color: #c183f7;
+}
+.classroom-color{
+	background-color: #9968c4;
+}
+.directory{
+	background-color: #52f3ff;
+}
+.directory-color{
+    background-color: #47ccd6;
+}
+.resources{
+	background-color: #f2a2f1;
+}
+.resources-color{
+	background-color: #de92de;
+}
+.report{
+	background-color: #90ad94;
+}
+.report-color{
+	background-color: #6e8571; 
+}
+.video{
+	background-color: #e2abff;
+}
+.video-color{
+	background-color: #d5a1f0; 
+}
+.forum{
+	background-color: #ffc466;
+}
+.forum-color{
+	background-color: #e6b15c;
+}
+.job{
+	background-color: #b55796;
+}
+.job-color{
+	background-color: #94487b;
+}

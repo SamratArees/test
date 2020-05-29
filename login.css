@@ -1,0 +1,89 @@
+body{
+	background-image: url(3.png);
+	font-family: sans-serif;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.sign-up-form{
+	width: 30%;
+	margin: auto;
+	text-align: center;
+
+	height: 500px;
+	color: white;
+
+}
+.input-info{
+	margin:5px;
+	height: 45px;
+	background:transparent;
+	color: white;
+	width: 100%;
+	font-size: 20px;
+}
+.icon{
+	display: flex;
+	border-bottom: 2px solid rgba(255,255,255,0.24);
+	font-size: 25px;
+	margin-top: 15px;
+
+}	
+
+::placeholder {
+	color: white;
+
+}
+input{
+	border:none;
+	outline: none;
+}
+.checkmark{
+	font-size: 120px;
+	margin: 150px 0 20px 0;
+	width: 100%;
+
+
+}
+
+.sign-up-button{
+	color: white;
+	background-color: #eb346b;
+	font-size: 20px;
+	border: none;
+	border-radius: 20px;
+	width: 100%;
+	padding: 7px;
+	margin: auto;
+	margin-top: 30px;
+	cursor: pointer;
+	border: hidden;
+	border:none;
+
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+.account{
+	font-size: 12px;
+	margin-top: 30px;
+	font-size: 15px;
+}
+.icon-info{
+	font-size: 25px;
+	margin-top: 15px;
+}
+
+@media only screen and (max-width: 1000px) {
+	.sign-up-from  {
+		width: 40%;
+	}
+}	
+@media only screen and (max-width: 500px){
+	.sign-up-from  {
+		width: 80%;
+	}
+}	  
+
